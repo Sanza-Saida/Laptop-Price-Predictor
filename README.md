@@ -42,9 +42,5 @@ Based on these inputs, the model predicts the estimated price of the laptop.
 - **Scikit-learn** – For machine learning model implementation
 - **Pandas & NumPy** – Data manipulation and analysis
 - **Pickle** – Serialization of the trained model
-- 
 
----
-
-## 🗂 Project Structure
 
